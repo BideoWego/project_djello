@@ -1,2 +1,2 @@
-# project_djello
-Project management with that great wobbly taste.
+
+This project has moved [here](https://github.com/BideoWego/djello).
